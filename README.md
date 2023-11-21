@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joseigolikesmusssicc
+- 👋 Hi, I’m josé.
 - 👀 I’m interested in language C and Python, I'm looking forward to work with many software developers in order to increase my non-existant abilities of coding.
 - 🌱 I’m currently learning C and Python.
 - 💞️ I’m looking to collaborate on software development.
